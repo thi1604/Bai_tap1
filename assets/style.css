@@ -1,0 +1,149 @@
+.Chat_Box{
+    border: 1px solid black;
+    width: 280px;
+    border-radius: 8px;
+}
+
+.Chat_Box .Title{
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+.Chat_Box .Title .EY{
+    display: inline-block;
+    background-color: #FE5DA3;
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    line-height: 32px;
+}
+
+.Chat_Box .Title .EmY{
+    display: inline-block;
+    margin-left: 10px;
+    
+}
+
+.Content{
+    padding: 10px;
+    font-size: 13px;
+    border-bottom: 1px solid black;
+}
+
+.Content .Nu{
+    background-color: #f1f1f1;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    max-width: 200px;
+}
+.Content .Nam{
+    background-color: #fe5da3;
+    color: white;
+    margin: 0px 0px 10px 40px;
+    padding: 5px 10px;
+    border-radius: 15px;
+    max-width: 200px;
+}
+
+.Chat_a_Send{
+    padding: 10px;
+}
+
+.Chat_a_Send form{
+    margin: 0px;
+}
+
+.Chat_a_Send form input{
+    border-radius: 15px;
+    padding: 0px 10px;
+    width: 190px;
+    height: 25px;
+    border: 1px solid #ddd
+}
+
+.Chat_a_Send .Send{
+    background-color: #fe5da3;
+    border-radius: 15px;
+    border: 1px solid #fe5da3;
+    cursor: pointer;
+    color:#f1f1f1;
+    margin-left: 15px;
+}
+
+/* Bai2 */
+
+.Item_shopee .Item{
+    padding: 10px;
+    margin: 0px 10px 10px 0px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+}   
+
+.Item_shopee .Item img{
+    height: 100px;
+    width: auto;
+}
+
+/* Bai3 */
+
+.Smart_Tech .products{
+    display: inline-block;
+    width: 250px;
+    margin: 0px 10px 10px 0px;
+    padding: 5px;
+    border: 1px solid #ddd;
+}
+
+
+.Smart_Tech img{
+    width: 250px;
+    height: 250px;
+    margin-bottom: 4px;
+}
+
+.Smart_Tech .Define{
+    padding: 10px 5px;
+}
+
+.Smart_Tech .Define .Title{
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.Smart_Tech .Define .Price_new{
+    color: green;
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.Smart_Tech .Define .Price_old{
+    color: red;
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.Smart_Tech .Define .Discount{
+    color: purple;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
